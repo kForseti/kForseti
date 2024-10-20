@@ -6,7 +6,7 @@
     <tr>
       <td>
         🫡 starting as a Web developer <strong>.NET</strong> <br />
-        😬 Beginner English Student <br />
+        😬 English Student <br />
       </td>
     </tr>
     <tr>
